@@ -1,0 +1,2 @@
+webpackJsonp([0x60697c25bd41],{344:function(e,a){e.exports={pathContext:{posts:[{html:"<h1>Twin Flames</h1>\n<p>So sweet, and amazing pictures too!</p>",id:"C:/Users/travi/Documents/Coding/myblog/src/pages/2018-7-20-marriage/index.md absPath of file >>> MarkdownRemark",frontmatter:{date:"2018-07-20T03:15:59.165Z",path:"/marriage",title:"Souls Unite",excerpt:"Most beautiful wedding ever!",tags:["love","marriage","peace"]}}],tagName:"love"}}}});
+//# sourceMappingURL=path---tags-love-9d080aab31f2697c1839.js.map
